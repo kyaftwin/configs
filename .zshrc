@@ -8,3 +8,6 @@ setopt hist_verify
 
 bindkey '^[[A' history-search-backward
 bindkey '^[[B' history-search-forward
+bindkey -v
+
+source ~/.env
